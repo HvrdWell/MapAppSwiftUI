@@ -56,8 +56,6 @@ extension locationDetailView{
         }
         .frame(height: 500)
         .tabViewStyle(PageTabViewStyle())
-        .frame(width: UIScreen.main.bounds.width)
-        .clipped()
     }
     private var titleSection: some View{
         VStack(alignment: .leading, spacing: 8){
