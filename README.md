@@ -14,6 +14,6 @@ Educational application on swiftui for working with the map.
 
 ## ipad:
 <p float="left" align="center">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/34194992/209406396-0add090e-155f-4e7d-84f5-4310cc90bb0b.png">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/34194992/209406429-ab760e78-8aaa-476d-8f80-4a3ad62821fa.png">
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/34194992/209406396-0add090e-155f-4e7d-84f5-4310cc90bb0b.png">
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/34194992/209406429-ab760e78-8aaa-476d-8f80-4a3ad62821fa.png">
 </p>
