@@ -1,6 +1,6 @@
 # MapAppSwiftUI
 
-Educational application on swiftkey for working with the map.
+Educational application on swiftui for working with the map.
 
 ## Screenshot:
 <p float="left" align="center">
